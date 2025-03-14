@@ -1,16 +1,34 @@
-# untitled2
+# Thrivex - Event Booking App
 
-A new Flutter project.
+Thrivex is a powerful and user-friendly event booking application built with Flutter, utilizing Firebase for backend services and storage. The app is designed exclusively for Android users, offering a seamless and engaging experience for discovering, booking, and managing events.
 
-## Getting Started
+## 🚀 Key Features
+- 🎟 **Event Discovery:** Explore events across different categories and interests.
+- 🔒 **Secure Booking System:** Book tickets effortlessly with a streamlined checkout process.
+- 🔑 **User Authentication:** Sign up and log in securely using Firebase Authentication.
+- ❤️ **Favorites & Wishlist:** Save events you love and get personalized recommendations.
+- 📍 **Event Details:** View comprehensive event information, including venue, schedule, and availability.
+- 🔍 **Search & Filters:** Find events easily by date, category, and location.
+- 📅 **User Dashboard:** Manage bookings, track upcoming events, and access past event history.
+- 📱 **Optimized UI:** Designed for Android devices, ensuring smooth navigation and usability.
 
-This project is a starting point for a Flutter application.
+## 📸 App Screenshots
+Here are some screenshots of the Thrivex app:
+![Signin](https://github.com/user-attachments/assets/cd53bcc5-9465-43a5-8293-7b79501d16f4)
+![Home_Screen](https://github.com/user-attachments/assets/1eccdefb-0198-493a-8dcd-674e69d20968)
+![](https://github.com/user-attachments/assets/07ddd18a-62b0-47ab-b5b2-7e8ab56cb662)
+![Booking Screen](https://github.com/user-attachments/assets/353f3703-24ee-4d77-8a8f-6627382121c0)
+![Profile Screen](https://github.com/user-attachments/assets/a075a9a8-d920-4ab5-873b-9be12bab035a)
+![Admin Login](https://github.com/user-attachments/assets/74569f8b-5822-4173-884b-b229104b462f)
+![Upload Event](https://github.com/user-attachments/assets/b83f151c-ed7a-4760-b0ea-11b6938cfc69)
+![Ticket Screen](https://github.com/user-attachments/assets/98c25a8e-c3ef-4599-be47-ca304370f6d6)
+![Admin Profile](https://github.com/user-attachments/assets/765643e3-8734-47e6-a7e5-06fda4a52164)
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠 Tech Stack
+- **Frontend:** Flutter (Dart)
+- **Backend & Storage:** Firebase (Authentication, Firestore, Storage)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🤝 Contributing
+We welcome contributions! Feel free to fork the repository, create a new branch, and submit a pull request with your enhancements or bug fixes.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Let’s make event booking seamless with **Thrivex!** 🎉
