@@ -13,7 +13,7 @@ Thrivex is a powerful and user-friendly event booking application built with Flu
 - 📱 **Optimized UI:** Designed for Android devices, ensuring smooth navigation and usability.
 
 ## 📸 App Screenshots
-Here are some screenshots of the Thrivex app:
+
 ![Signin](https://github.com/user-attachments/assets/cd53bcc5-9465-43a5-8293-7b79501d16f4)
 ![Home_Screen](https://github.com/user-attachments/assets/1eccdefb-0198-493a-8dcd-674e69d20968)
 ![](https://github.com/user-attachments/assets/07ddd18a-62b0-47ab-b5b2-7e8ab56cb662)
