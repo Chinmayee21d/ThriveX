@@ -1,4 +1,8 @@
-# Thrivex - Event Booking App
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/78f41d24-d9eb-418f-a85b-788fac03c6b6" alt="Thrivex Logo" width="50" height="50" style="vertical-align: middle; margin-right: 10px;">
+  <strong style="font-size: 24px;">Thrivex - Event Booking App</strong>
+</p>
+
 
 Thrivex is a powerful and user-friendly event booking application built with Flutter, utilizing Firebase for backend services and storage. The app is designed exclusively for Android users, offering a seamless and engaging experience for discovering, booking, and managing events.
 
