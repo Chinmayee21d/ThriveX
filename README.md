@@ -13,7 +13,12 @@ Thrivex is a powerful and user-friendly event booking application built with Flu
 - 📱 **Optimized UI:** Designed for Android devices, ensuring smooth navigation and usability.
 
 ## 📸 App Screenshots
+![iphone-x-mockup](https://github.com/user-attachments/assets/4759b7d5-b243-4316-8000-8b196821c3c9)
+![iphone-multiple-screens-mockup (4)](https://github.com/user-attachments/assets/35f9b009-c157-4749-aa32-9803f1264b74)
 
+
+
+<!--
 ![Signin](https://github.com/user-attachments/assets/cd53bcc5-9465-43a5-8293-7b79501d16f4)
 ![Home_Screen](https://github.com/user-attachments/assets/1eccdefb-0198-493a-8dcd-674e69d20968)
 ![](https://github.com/user-attachments/assets/07ddd18a-62b0-47ab-b5b2-7e8ab56cb662)
@@ -23,7 +28,7 @@ Thrivex is a powerful and user-friendly event booking application built with Flu
 ![Upload Event](https://github.com/user-attachments/assets/b83f151c-ed7a-4760-b0ea-11b6938cfc69)
 ![Ticket Screen](https://github.com/user-attachments/assets/98c25a8e-c3ef-4599-be47-ca304370f6d6)
 ![Admin Profile](https://github.com/user-attachments/assets/765643e3-8734-47e6-a7e5-06fda4a52164)
-
+-->
 ## 🛠 Tech Stack
 - **Frontend:** Flutter (Dart)
 - **Backend & Storage:** Firebase (Authentication, Firestore, Storage)
